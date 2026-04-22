@@ -1,0 +1,6 @@
+{
+  "name": "Fake Bank Pvt Limited",
+  "description": "Intentional vulnerable banking application for cybersecurity training and demos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
